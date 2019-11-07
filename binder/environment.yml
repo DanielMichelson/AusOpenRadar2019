@@ -26,6 +26,7 @@ dependencies:
 # jupyter-related
   - ipyleaflet
   - pip
+  - jupyter-server-proxy
 # radar
   - wradlib
   - coincbc=2.9.9
